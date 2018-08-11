@@ -32,7 +32,7 @@ programs, deploying them to Fabric, and relying on them to do our work.  We call
 it **dogfooding** — and we'd like to help you do the same by teaching everyone
 to code, even if just a little.
 
-To this end, we decided to investing in our community by running
+To this end, we decided to invest in our community by running
 [the #learning channel][learning] for anyone who'd like to build something for
 themselves (or others!) — we're always around to answer questions and provide
 resources for your journey.  Come say hello!
